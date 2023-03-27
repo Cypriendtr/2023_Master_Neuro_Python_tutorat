@@ -1,4 +1,4 @@
-# Tutorat Pragrammation Python Master 1 Neurosciences
+# Tutorat Programmation Python Master 1 Neurosciences
 ### Sous la direction de : Dautrevaux Cyprien et Lainé Alexandre
 #### Avec le soutien et l'accord de l'équipe enseignante du Master de Neurosciences d'Aix Marseille Université et de la Neuroschool. 
 
