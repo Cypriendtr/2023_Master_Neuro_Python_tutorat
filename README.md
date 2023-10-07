@@ -26,13 +26,15 @@ Pour mener à bien tout ces objectifs 8 séances de 2 heures hebdomadaires sont 
 
 * Séance 4: Les boucles et les fonctions.
 
-* Séance 5: Application - Modélisation neuronale (Leaky integrated and fire)
+* Séance 5: Application - Utilisation des boucles et fonctions
 
-* Séance 6: Encore des bibliothèques Sympy et Scipy
+* Séance 6: Application - Modélisation neuronale (Leaky integrated and fire)
 
-* Séance 7: Toujours des bibliothèques Pandas et Seaborn
+* Séance 7: Encore des bibliothèques Sympy et Scipy
 
-* Séance 8: Analyse du Dataset Titanic et ScikitLearn
+* Séance 8: Toujours des bibliothèques Pandas et Seaborn
+
+* Séance 9: Analyse du Dataset Titanic et ScikitLearn
 
 ### N'oubliez pas vos ordinateurs nous en aurons besoin. 
 Files and codes created for the python tutoring in the Master 1 of Neurosciences at Aix-Marseille-University
