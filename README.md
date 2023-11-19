@@ -22,7 +22,7 @@ Pour mener à bien tout ces objectifs 8 séances de 2 heures hebdomadaires sont 
 
 * Séance 2: Premiers pas sur Python (Les variables et formalisme de calcul).
 
-* Séance 3: Les bibliothèques Nympy et Matplotlib.
+* Séance 3: Les bibliothèques Numpy et Matplotlib.
 
 * Séance 4: Les boucles et les fonctions.
 
@@ -37,4 +37,4 @@ Pour mener à bien tout ces objectifs 8 séances de 2 heures hebdomadaires sont 
 * Séance 9: Analyse du Dataset Titanic et ScikitLearn
 
 ### N'oubliez pas vos ordinateurs nous en aurons besoin. 
-Files and codes created for the python tutoring in the Master 1 of Neurosciences at Aix-Marseille-University
+Files and codes created for the python tutoring in the Master 1 of Neurosciences at Aix-Marseille-University (AMU)
